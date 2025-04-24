@@ -1,6 +1,6 @@
 # Calculator
 
-A simple Python Calculator app to perform basic operations (+, -, *, /, %) with lists.
+A simple Python Calculator app to perform basic operations (+, -, *, /, %) with lists. Built to practice Python basics like loops and lists.
 
 ## How to run the script?
 - Download the program file.
