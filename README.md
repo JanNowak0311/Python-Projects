@@ -1,11 +1,14 @@
 # File Organizer
 
-A simple Python app to organize files by type into subfolders (e.g., .txt to Text, .jpg to Images). Built to practice Python basics like loops and file handling.
+A simple Python app to organize files by type into categorized subfolders (e.g., Images, Documents, Videos). Built to practice Python basics like loops and file handling with smart file type detection.
 
 ## Features
-- Organizes .txt files into a "Text" subfolder.
-- Organizes .jpg files into an "Images" subfolder.
-- Creates subfolders if they don't exist.
+- Organizes all image types (JPG, PNG, GIF, etc.) into an "Images" subfolder.
+- Organizes all document types (TXT, PDF, DOCX, ZIP, etc.) into a "Documents" subfolder.
+- Organizes all video types (MP4, AVI, etc.) into a "Videos" subfolder.
+- Organizes all audio types (MP3, WAV, etc.) into an "Audio" subfolder.
+- Places uncategorized files into an "Others" subfolder.
+- Uses MIME type detection for accuracy and efficiency.
 
 ## How to Run the Script
 - Download the program file.
