@@ -2,6 +2,10 @@
 
 A simple Python Calculator app to perform basic operations (+, -, *, /, %) with lists. Built to practice Python basics like loops and lists.
 
+## Features
+- Perform basic operations: addition, subtraction, multiplication, division, and modulus.
+- Manage lists: set values, clear the list, and show the current list.
+  
 ## How to run the script?
 - Download the program file.
 - Open Command Prompt and go to the directory where the file is located (e.g. 'cd Downloads').
